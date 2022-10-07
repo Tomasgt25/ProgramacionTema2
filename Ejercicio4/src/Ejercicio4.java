@@ -1,5 +1,17 @@
-public class Main {
+import java.util.Scanner;
+
+public class Ejercicio4 {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Introduzca su edad");
+        int edad1= sc.nextInt();
+
+        if (edad1>=18){
+            System.out.println("Es mayor de edad");
+        }
+        else {
+            System.out.println("Eres menor de edad.");
+        }
     }
 }
