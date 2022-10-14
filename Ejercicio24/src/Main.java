@@ -16,14 +16,14 @@ public class Main {
         for (int i = 0; i < 9; i++) {
             if (num[i]%2==0){
                 cont++;
-                System.out.println("Hay "+cont+ " pares y "+(10-cont)+" impares.");
-            }
+
+                    }
 
 
                 }
+        System.out.println("Hay "+cont+ " pares y "+(10-cont)+" impares.");
 
 
-
-        }
+            }
         }
 
