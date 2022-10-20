@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8421457-faa5-4a33-9564-956e3662e968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio33/out/production/Ejercicio33/.idea/Ejercicio33.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio34/out/production/Ejercicio34/.idea/Ejercicio34.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/Ejercicio36.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio36/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/.idea/Ejercicio37.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio37/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Ejercicio38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/CosasQueHacemosEnClase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CosasQueHacemosEnClase/CosasQueHacemosEnClase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles19Octubre/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles19Octubre/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio32/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio32/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/.idea/Ejercicio33.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/.idea/Ejercicio33.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/Ejercicio33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/Ejercicio33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio34/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio34/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GPT8WuOkYKNWJYLuEW5yyZxcDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8421457-faa5-4a33-9564-956e3662e968" name="Changes" comment="" />
+      <created>1666289059927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666289059927</updated>
+      <workItem from="1666289061287" duration="1385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
