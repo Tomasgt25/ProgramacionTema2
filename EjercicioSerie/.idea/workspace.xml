@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0307c311-266b-4f65-aeb2-c3c357fb4a0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EjercicioSerie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie/Entregable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serie/Videojuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/.idea/EjercicioVideojuego.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioVideojuego/Videojuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/CosasQueHacemosEnClase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CosasQueHacemosEnClase/CosasQueHacemosEnClase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/EjemploSetter&amp;Getter/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CosasQueHacemosEnClase/EjemploSetter&amp;Getter/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles19Octubre/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles19Octubre/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles26Oct/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosasQueHacemosEnClase/Miercoles26Oct/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploOverwrite/.idea/EjemploOverwrite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploOverwrite/.idea/EjemploOverwrite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploOverwrite/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploOverwrite/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploOverwrite/Overwrite/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploOverwrite/Overwrite/Overwrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio32/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio32/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio32/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio32/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/.idea/Ejercicio33.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/.idea/Ejercicio33.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio33/Ejercicio33.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio33/Ejercicio33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio34/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio34/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio36/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio36/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio36/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio36/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio37/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio37/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio38/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio38/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio39/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio39/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio41/Juego/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio41/Juego/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio41/Juego/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio41/Juego/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/.idea/Ejercicio43.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio43/VolumenEsfera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio44/.idea/Ejercicio44.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio44/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio44/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio44/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio44/BuenosDias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/.idea/Ejercicio45.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio45/GradosCelsiusAGradosFahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/.idea/Ejercicio46.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio46/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioPassword/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioPassword/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio48/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio48/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio49/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio49/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/.idea/Ejercicio50.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/.idea/Ejercicio50.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio50/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio51/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio51/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/.idea/Ejercicio52.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/.idea/Ejercicio52.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio52/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio53/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio53/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio54/Punto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio54/Punto/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio54/Punto/Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prueba de nivel/Ejercicio54/Punto/Punto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H5dmqB7OLXTMXRm9bO1gcvqh2W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0307c311-266b-4f65-aeb2-c3c357fb4a0d" name="Changes" comment="" />
+      <created>1667579039493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667579039493</updated>
+      <workItem from="1667579041050" duration="2362000" />
+      <workItem from="1667581860848" duration="3671000" />
+      <workItem from="1667586053823" duration="1632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
